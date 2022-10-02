@@ -1,0 +1,115 @@
+:root { 
+  --black: #000000;
+  --cape-cod: #324148;
+  --ebony-clay: #263238;
+  --fern: #66bb6a;
+  --gallery: #f0f0f0;
+  --kidnapper: #e2efd2;
+  --laurel: #729772;
+  --white: #ffffff;
+ 
+  --font-size-m2: 18px;
+  --font-size-s: 15px;
+  --font-size-s2: 16px;
+  --font-size-xl: 19px;
+  --font-size-xl3: 20px;
+  --font-size-xxxl: 25px;
+  --font-size-xxxl2: 36px;
+ 
+  --font-family-chivo: "Chivo", Helvetica;
+}
+.chivo-light-gallery-15px {
+  color: var(--gallery);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.chivo-normal-kidnapper-16px {
+  color: var(--kidnapper);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.chivo-bold-white-31px {
+  color: var(--white);
+  font-family: var(--font-family-chivo);
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chivo-bold-ebony-clay-18px {
+  color: var(--ebony-clay);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chivo-light-ebony-clay-16px {
+  color: var(--ebony-clay);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.chivo-bold-black-46px {
+  color: var(--black);
+  font-family: var(--font-family-chivo);
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chivo-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-xl3);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.chivo-bold-laurel-21px {
+  color: var(--laurel);
+  font-family: var(--font-family-chivo);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chivo-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-xxxl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chivo-normal-fern-14px {
+  color: var(--fern);
+  font-family: var(--font-family-chivo);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.chivo-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-xxxl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.chivo-normal-cape-cod-18px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-chivo);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
